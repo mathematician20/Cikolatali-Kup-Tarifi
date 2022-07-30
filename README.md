@@ -1,2 +1,2 @@
-# EV YAPIMI DONDURMA TARİFLERİ
+# Ev Yapımı Dondurma Tarifleri
 Ödev 3
