@@ -1,2 +1,2 @@
-# Cikolatali-Kup-Tarifi
+# EV YAPIMI DONDURMA TARİFLERİ
 Ödev 3
